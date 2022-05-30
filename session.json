@@ -1,3 +1,5 @@
-[
-  Session id here
-]
+{
+  _chains: {
+    'BTBlibACiR+ciNNPgMSIUQK1wKLtc4saLGj1c8S3iUNz': { chainKey: [Object], chainType: 2, messageKeys: {} },
+    'BfjaI1NpQAMeQQXSUi+bUyfGQvBJzxtiZB8bIpeFGLNR': { chainKey: [Object], chainType: 1, messageKeys: {} }
+}
